@@ -4,13 +4,13 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-<name>PhoneGap Build Application</name>
+<name>Centro de Atención al Visitante</name>
 
 <description>
-A simple PhoneGap Build application.
+Aplicación con información para visitantes a museos y colecciones artísticas
 </description>
 
-<author href="https://pyrenalia.com" email="rmunoz@pyrenalia.com">
+<author href="http://www.pyrenalia.com" email="rmunoz@pyrenalia.com">
 Reynaldo Muñoz de Diego
 </author>
 
